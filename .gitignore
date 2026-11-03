@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# virtual environments
+env/
+.venv/
+
+# python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# mac junk
+.DS_Store
